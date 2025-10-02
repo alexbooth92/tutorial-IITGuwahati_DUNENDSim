@@ -1,0 +1,2 @@
+inputs/gxspl-NUsmall.xml filter=lfs diff=lfs merge=lfs -text
+inputs/g4lbne_v3r5p10_QGSP_BERT_OfficialEngDesignSept2021_OnAxis_neutrino_00000.dk2nu.root filter=lfs diff=lfs merge=lfs -text
